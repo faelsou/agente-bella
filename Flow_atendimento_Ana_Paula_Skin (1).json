@@ -2335,7 +2335,7 @@
           "mode": "list",
           "cachedResultName": "anapaulasouskin@gmail.com"
         },
-        "eventId": "={{ $fromAI(\"deleteEvent\") }} ",
+        "eventId": "={{ $fromAI(\"deleteEvent\") }}",
         "options": {}
       },
       "type": "n8n-nodes-base.googleCalendarTool",
